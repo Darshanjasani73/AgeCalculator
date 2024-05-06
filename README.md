@@ -26,7 +26,7 @@ The Age Calculator project is a simple web application that allows users to calc
 
 ## Usage
 
-1. Open the `index.html` file in a web browser.
+1. Open the `AgeCal.html` file in a web browser.
 2. Input your birthdate and the current date in the respective date fields.
 3. Click the "Your Age is" button to calculate your age.
 4. The result will be displayed, and if it's your birthday, a special message will appear.
